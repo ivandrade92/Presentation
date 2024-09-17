@@ -1,18 +1,20 @@
-h1{
-    color: red;
-    font-size: 50px;
+h1 {
+  font-size: 35px;
+  font-family: "Arial";
 }
-body{
-    background-color:#696969;
-    justify-content: center !important;
-    text-align: center;
+body {
+  background-color: #f0f0f0;
+  justify-content: center !important;
+  text-align: center;
 }
-.link{
-    color: #fff;
-    text-decoration: none;
-    padding: 10px 10px 10px 10px;
+.link {
+  text-decoration: none;
 }
-.menu-bar{
-    background-color: #333;
-    text-align: center;
+.menu-bar {
+  display: flex;
+  grid-gap: 10px 25px;
+  justify-content: center   !important;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: rgb(0, 0, 0,0.3);
 }
