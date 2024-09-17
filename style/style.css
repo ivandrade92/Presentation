@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    font-size: 50px;
+}
+body{
+    background-color:#696969;
+    justify-content: center !important;
+    text-align: center;
+}
+.link{
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+}
+.menu-bar{
+    background-color: #333;
+    text-align: center;
+}
